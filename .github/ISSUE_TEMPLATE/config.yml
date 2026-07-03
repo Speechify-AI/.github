@@ -1,0 +1,16 @@
+contact_links:
+  - name: API and platform documentation
+    url: https://docs.speechify.ai
+    about: Reference for Speechify APIs, SDKs, models, and voice agents.
+  - name: Dashboard and account support
+    url: https://platform.speechify.ai
+    about: Account, API keys, workspaces, and billing.
+  - name: Sales, procurement, and enterprise
+    url: https://speechify.ai/talk-to-sales
+    about: Enterprise agreements, custom voices, and volume pricing.
+  - name: Platform status and incidents
+    url: https://status.speechify.ai
+    about: Check for a known incident before opening an issue.
+  - name: DevRel feedback
+    url: mailto:devrel@speechify.com
+    about: Feedback on SDKs, blog posts, demos, and public repos.
