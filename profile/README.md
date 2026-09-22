@@ -16,8 +16,11 @@ The flagship model, **Simba 3.0**, is a streaming-native speech model with zero-
 
 - Twitter/X: [@SpeechifyAI](https://x.com/SpeechifyAI)
 - LinkedIn: [SpeechifyInc](https://www.linkedin.com/company/speechifyinc/)
-- DevRel contact: `devrel@speechify.com`
-- Sales: [speechify.ai/talk-to-sales](https://speechify.ai/talk-to-sales)
+- Developers: `developers@speechify.ai`
+- Support: `support@speechify.ai`
+- Sales: `sales@speechify.ai`, [speechify.ai/talk-to-sales](https://speechify.ai/talk-to-sales)
+- Partnerships and integrations: `partnerships@speechify.ai`
+- Security reports: `security@speechify.ai`
 - Forward-deployed engineering roles: [speechify.ai/forward-deployed-engineers](https://speechify.ai/forward-deployed-engineers)
 
 ## Notes
@@ -31,4 +34,4 @@ The flagship model, **Simba 3.0**, is a streaming-native speech model with zero-
 - **API root**: `https://api.speechify.ai/v1/`
 - **Docs**: [docs.speechify.ai](https://docs.speechify.ai)
 - **Signup**: [platform.speechify.ai](https://platform.speechify.ai/signup)
-- **Contact**: `devrel@speechify.com`
+- **Contact**: `sales@speechify.ai` (sales), `partnerships@speechify.ai` (partnerships), `support@speechify.ai` (customers), `developers@speechify.ai` (SDKs, docs, integrations), `security@speechify.ai` (vulnerability reports)

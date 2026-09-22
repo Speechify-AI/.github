@@ -11,6 +11,9 @@ contact_links:
   - name: Platform status and incidents
     url: https://status.speechify.ai
     about: Check for a known incident before opening an issue.
-  - name: DevRel feedback
-    url: mailto:devrel@speechify.com
-    about: Feedback on SDKs, blog posts, demos, and public repos.
+  - name: Developer questions
+    url: mailto:developers@speechify.ai
+    about: SDKs, docs, public repos, and technical integration questions.
+  - name: Report a security vulnerability
+    url: https://github.com/Speechify-AI/.github/blob/main/SECURITY.md
+    about: Please do not open a public issue. Email security@speechify.ai.
